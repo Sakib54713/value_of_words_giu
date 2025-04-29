@@ -5,7 +5,7 @@
 ### Description:
 This is a python GUI-based project to calculate the value of any word by giving each letter a numeric value based on their order in the alphabet.
 
-### Moduels Used:
+### Modules Used:
 - re (regular expression)
 - customtkinter (to make it GUI)
 
